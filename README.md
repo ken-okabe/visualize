@@ -1,2 +1,2 @@
 # visualize
-visualize.js
+visualize.es
